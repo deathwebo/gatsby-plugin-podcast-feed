@@ -77,7 +77,7 @@ title: "Introduction"
 slug: "introduction"
 date: "2019-04-06"
 url: https://traffic.libsyn.com/lkajsdlkfjalksdjf/alskdjflkjasdf.mp3
-length: 206820339
+size: 206820339
 categories:
   - Ohh Oh
   - It's magic
