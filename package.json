@@ -6,7 +6,7 @@
     "gatsby",
     "gatsby-plugin"
   ],
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Gatsby Plugin for podcast feeds.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/deathwebo/gatsby-plugin-podcast-feed"
+    "url" : "https://github.com/deathwebo/gatsby-plugin-podcast-rss-feed"
   }
 }
